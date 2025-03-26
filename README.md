@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-💻 I am a driven and motivated **Frontend Developer** with burning eyes
-🤩 I scream with joy after every **successful coding**
+💻 I am a driven and motivated **Frontend Developer** with burning eyes  
+🤩 I scream with joy after every **successful coding**  
 ⚛️ Working with **React, TypeScript, Tailwind, and Next.js**  
 📚 Always learning **new technologies**  
 🌍 Love to contibute on **open-source** projects
