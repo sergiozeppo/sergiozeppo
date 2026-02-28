@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React | TypeScript | Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7B42C&center=true&width=435&lines=Building+modern+web+apps;Writing+clean+and+efficient+code;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7B42C&center=true&width=435&lines=Building+modern+web+apps;Writing+clean+and+efficient+code;Constantly+learning+and+improving" />
 </p>
 
 ---
