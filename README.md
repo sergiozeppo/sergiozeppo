@@ -45,16 +45,19 @@
   </a>
 </p>
 
+---
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiozeppo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiozeppo&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sergiozeppo&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiozeppo&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiozeppo&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sergiozeppo&theme=radical&hide_border=true" />
 </p>
 
+---
+### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sergiozeppo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
